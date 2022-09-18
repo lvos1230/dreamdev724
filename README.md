@@ -1,7 +1,9 @@
 <div align="center">
 <img src="https://i.imgur.com/ot2rtaS.gif">
   </div>
-
+<p align="center">
+  <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
+</p>
 ## Eaee <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu me chamo Gabriel, 20y <img src="https://c.tenor.com/WbDvI1hgS9wAAAAi/lightning-bots-kids-choice-awards.gif" height="50px">
 
 - 🏢 Desenvolvedor Java Jr. - Foursys
