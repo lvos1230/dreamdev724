@@ -24,11 +24,11 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 ### Other Things About Me
 
-- 🔭 I’m currently working on open source projects (and other ones) coded in languages such as Python, HTML, C++ and JavaScript. I am also starting GDScript + C++, have also made some Shell scripts, created engaging TeX reports and I have made some interesting charts in R!
+- 🔭 I’m currently working on open source projects (and other ones) coded in languages such as React, HTML, Node.js and JavaScript. I am also starting GDScript + C++, have also made some Shell scripts, created engaging TeX reports and I have made some interesting charts in R!
 - 🌱 I’m currently learning C++ and GDScript.
 - ✨ I’m looking for the best programming opportunities on Github, as well as contributing to common Github repos and projects.
 - 🤔 I’m looking for help with advanced GitHub and advanced Python features as well as how to effectively learn programming languages in general.
-- 💬 Ask me about how to make great READMEs, query about code in Python and C++, and learn basic Blender in good hands. I might be able to help you.
+- 💬 Ask me about how to make great READMEs, query about code in React and C++, and learn basic Blender in good hands. I might be able to help you.
 - 📫 How to reach me: On [GitHub (Main)](https://github.com/SmashedFrenzy16), [GitHub (Alternative)](https://github.com/SmashedFrenzy16Alt), [Google+](https://plus.google.com/+SmashedFrenzy16) and [Chess.com](https://www.chess.com/member/calmxbop7462)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am in the top 2% of Python developers worldwide! (Data retrieved from CodersRank)
@@ -57,7 +57,6 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitpodio/gitpodio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/replit/replit-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
